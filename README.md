@@ -1,3 +1,3 @@
 # CTF stuff
 
-- Templates from Cryptographic Systems course, for easy implementation later
+- Code from Cryptographic Systems course tasks, for easy implementation later
